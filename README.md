@@ -1,5 +1,8 @@
 # vuesite
 
+
+[https://vuetify-resume-cv.netlify.app/](https://vuetify-resume-cv.netlify.app/)
+
 ## Project setup
 ```
 npm install
